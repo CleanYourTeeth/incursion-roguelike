@@ -4258,7 +4258,7 @@ typedef signed long       hObj;
 #define MAX_WILDER_GRIDY   16
 #define MAX_SPELLS         2048
 #define MAX_GODS           25
-#define MAX_CHAR_LEVEL     11
+#define MAX_CHAR_LEVEL     20
 #define MAX_CORRIDOR_LENGTH 8192
 #define ANNOT_INITIAL_SIZE 50
 #define MAX_SAC_CATS       10
